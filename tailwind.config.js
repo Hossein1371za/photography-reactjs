@@ -2,8 +2,7 @@ module.exports = {
   content: ['./src/**/*.{html,js}'],
   theme: {
     fontFamily: {
-      primary: 'Playfair Display',
-      secondary: 'Mulish',
+      primary: 'vazir',
     },
     screens: {
       sm: '640px',
