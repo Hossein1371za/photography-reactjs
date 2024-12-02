@@ -10,7 +10,7 @@ import { motion } from "framer-motion";
 const App = () => {
   return (
     <BrowserRouter>
-    <Header/>
+      <Header />
       <AnimRouter />
     </BrowserRouter>
   );
