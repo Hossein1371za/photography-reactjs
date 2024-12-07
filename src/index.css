@@ -13,7 +13,7 @@
   }
 
   .h1 {
-    @apply text-[54px] lg:text-[108px] font-primary font-bold capitalize leading-[120%] tracking-[-0.05em] mb-2;
+    @apply text-[54px] lg:text-[65px] xl:text-[80px] font-primary font-bold  leading-[120%] tracking-[-0.05em] mb-2;
   }
 
   .section {
@@ -21,6 +21,6 @@
   }
 
   .btn {
-    @apply py-[18px] px-[50px] h-[66px] flex items-center justify-center text-base uppercase font-secondary font-semibold bg-primary text-white;
+    @apply py-[18px] px-[50px] h-[66px] flex items-center justify-center text-base  font-semibold bg-primary text-white;
   }
 }
