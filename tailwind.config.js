@@ -17,6 +17,13 @@ module.exports = {
 
         accent: '#EEF7F9',
       },
+      container: {
+        center: true,
+        padding: {
+          DEFAULT: "1rem",
+          sm: "2rem",
+        },
+      },
     },
   },
   plugins: [],
