@@ -21,6 +21,6 @@
   }
 
   .btn {
-    @apply py-[18px] px-[50px] h-[66px] flex items-center justify-center text-base  font-semibold bg-primary text-white;
+    @apply py-[18px] px-[50px] h-[66px] flex items-center justify-center text-base  font-semibold bg-primary text-white lg:w-[50%];
   }
 }
